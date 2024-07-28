@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\workSpace\\source\\repos\\EComWEBUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3204C2F-80CA-4A17-81A7-7EE0D1B60387}|EComWEBUI.WebUI\\EComWEBUI.WebUI.csproj|c:\\users\\workspace\\source\\repos\\ecomwebui\\ecomwebui.webui\\areas\\adminpanel\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3204C2F-80CA-4A17-81A7-7EE0D1B60387}|EComWEBUI.WebUI\\EComWEBUI.WebUI.csproj|solutionrelative:ecomwebui.webui\\areas\\adminpanel\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3204C2F-80CA-4A17-81A7-7EE0D1B60387}|EComWEBUI.WebUI\\EComWEBUI.WebUI.csproj|c:\\users\\workspace\\source\\repos\\ecomwebui\\ecomwebui.webui\\areas\\adminpanel\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3204C2F-80CA-4A17-81A7-7EE0D1B60387}|EComWEBUI.WebUI\\EComWEBUI.WebUI.csproj|solutionrelative:ecomwebui.webui\\areas\\adminpanel\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3204C2F-80CA-4A17-81A7-7EE0D1B60387}|EComWEBUI.WebUI\\EComWEBUI.WebUI.csproj|c:\\users\\workspace\\source\\repos\\ecomwebui\\ecomwebui.webui\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3204C2F-80CA-4A17-81A7-7EE0D1B60387}|EComWEBUI.WebUI\\EComWEBUI.WebUI.csproj|solutionrelative:ecomwebui.webui\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3204C2F-80CA-4A17-81A7-7EE0D1B60387}|EComWEBUI.WebUI\\EComWEBUI.WebUI.csproj|c:\\users\\workspace\\source\\repos\\ecomwebui\\ecomwebui.webui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3204C2F-80CA-4A17-81A7-7EE0D1B60387}|EComWEBUI.WebUI\\EComWEBUI.WebUI.csproj|solutionrelative:ecomwebui.webui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 389,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\workSpace\\source\\repos\\EComWEBUI\\EComWEBUI.WebUI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EComWEBUI.WebUI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\workSpace\\source\\repos\\EComWEBUI\\EComWEBUI.WebUI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EComWEBUI.WebUI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T10:06:02.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\workSpace\\source\\repos\\EComWEBUI\\EComWEBUI.WebUI\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EComWEBUI.WebUI\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\workSpace\\source\\repos\\EComWEBUI\\EComWEBUI.WebUI\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EComWEBUI.WebUI\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T09:54:42.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\workSpace\\source\\repos\\EComWEBUI\\EComWEBUI.WebUI\\Areas\\AdminPanel\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EComWEBUI.WebUI\\Areas\\AdminPanel\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\workSpace\\source\\repos\\EComWEBUI\\EComWEBUI.WebUI\\Areas\\AdminPanel\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EComWEBUI.WebUI\\Areas\\AdminPanel\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:32:19.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\workSpace\\source\\repos\\EComWEBUI\\EComWEBUI.WebUI\\Areas\\AdminPanel\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "EComWEBUI.WebUI\\Areas\\AdminPanel\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\workSpace\\source\\repos\\EComWEBUI\\EComWEBUI.WebUI\\Areas\\AdminPanel\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "EComWEBUI.WebUI\\Areas\\AdminPanel\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T09:31:56.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

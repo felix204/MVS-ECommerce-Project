@@ -1,0 +1,11 @@
+C:\Users\workSpace\source\repos\EComWEBUI\EComWEBUI.Core\bin\Debug\net8.0\EComWEBUI.Core.deps.json
+C:\Users\workSpace\source\repos\EComWEBUI\EComWEBUI.Core\bin\Debug\net8.0\EComWEBUI.Core.dll
+C:\Users\workSpace\source\repos\EComWEBUI\EComWEBUI.Core\bin\Debug\net8.0\EComWEBUI.Core.pdb
+C:\Users\workSpace\source\repos\EComWEBUI\EComWEBUI.Core\obj\Debug\net8.0\EComWEBUI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\workSpace\source\repos\EComWEBUI\EComWEBUI.Core\obj\Debug\net8.0\EComWEBUI.Core.AssemblyInfoInputs.cache
+C:\Users\workSpace\source\repos\EComWEBUI\EComWEBUI.Core\obj\Debug\net8.0\EComWEBUI.Core.AssemblyInfo.cs
+C:\Users\workSpace\source\repos\EComWEBUI\EComWEBUI.Core\obj\Debug\net8.0\EComWEBUI.Core.csproj.CoreCompileInputs.cache
+C:\Users\workSpace\source\repos\EComWEBUI\EComWEBUI.Core\obj\Debug\net8.0\EComWEBUI.Core.dll
+C:\Users\workSpace\source\repos\EComWEBUI\EComWEBUI.Core\obj\Debug\net8.0\refint\EComWEBUI.Core.dll
+C:\Users\workSpace\source\repos\EComWEBUI\EComWEBUI.Core\obj\Debug\net8.0\EComWEBUI.Core.pdb
+C:\Users\workSpace\source\repos\EComWEBUI\EComWEBUI.Core\obj\Debug\net8.0\ref\EComWEBUI.Core.dll
